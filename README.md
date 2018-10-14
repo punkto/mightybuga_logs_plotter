@@ -9,6 +9,7 @@ Some Python scripts that plot the output of the mightyBuga line follower (https:
  - numpy
  - matplotlib
  - scipy
+ - pandas
  
  
 # Run
